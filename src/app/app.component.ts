@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
-    <familyTree-tree [data]="data" ></familyTree-tree>
+    <familyTree-tree class="tree" [data]="data" ></familyTree-tree>
   `,
   styleUrls: ['./app.component.css']
 })
