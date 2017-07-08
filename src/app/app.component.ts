@@ -24,8 +24,7 @@ export class AppComponent {
             },
             { name: 'Grand Child', children: [] }
           ]
-        },
-        { name: 'Child', children: [] }
+        }
       ]
     }
   ]
