@@ -19,5 +19,5 @@
 ## Setup
 npm install
 `ng serve` for dev server
-`ng build1` to build to `dist/`
+`ng build` to build to `dist/`
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
